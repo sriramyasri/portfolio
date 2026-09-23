@@ -41,7 +41,7 @@ I am a **Senior Full-Stack Developer** with **6+ years of hands-on experience** 
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend Architecture** | PHP (Core, 5, 7, 8), Laravel, CodeIgniter, Node.js, RESTful APIs, MVC |
+| **Backend Architecture** | PHP (Core, 5, 7, 8), Laravel, CodeIgniter, Node.js, RESTful APIs, MVC pattern |
 | **Database & Caching** | MySQL, Query Optimization, Joins, Stored Procedures, Indexing, Redis, In-Memory Caching |
 | **Frontend Development** | React.js, JavaScript (ES6+), jQuery, AJAX, HTML5, CSS3, Bootstrap, Responsive Design |
 | **DevOps & Cloud** | AWS, GitHub Actions (CI/CD), Git, GitHub, Postman, Plesk, cPanel, Linux Administration |
@@ -68,17 +68,17 @@ Sales & Invoicing Modules: Streamlined transactional operations and order proces
 Business Requirements ──► Database Design & Normalization ──► Backend API Development
                                                                       │
 Production Deployment ◄── CI/CD & Automated Testing ◄── Frontend Component Integration
-Database Performance Tuning: Executed deep query analysis using EXPLAIN, optimizing indexes and join patterns for enterprise datasets[cite: 1].
+Database Performance Tuning: Executed deep query analysis using EXPLAIN, optimizing indexes and join patterns for enterprise datasets.
 
-Automated Deployments: Built GitHub Actions CI/CD workflows for seamless production builds and automated releases on AWS[cite: 1].
+Automated Deployments: Built GitHub Actions CI/CD workflows for seamless production builds and automated releases on AWS.
 
-Production Incident Management: Provided 3rd-level technical support, fast bug resolution, and system stability enhancements[cite: 1].
+Production Incident Management: Provided 3rd-level technical support, fast bug resolution, and system stability enhancements.
 
 📊 GitHub Analytics
 🌱 Continuous Improvement & Leadership Focus
-Current Deep Dives: Advanced Cloud Architecture (AWS Lambda / Serverless)[cite: 1].
+Current Deep Dives: Advanced Cloud Architecture (AWS Lambda / Serverless).
 
-Career Vision: Transitioning into Tech Leadership, focusing on technical architecture, team mentorship, and end-to-end project ownership[cite: 1].
+Career Vision: Transitioning into Tech Leadership, focusing on technical architecture, team mentorship, and end-to-end project ownership.
 
 🤝 Open for Full-Time, Lead, & High-Impact Contracts
 Hyderabad / Bangalore / Remote
@@ -87,9 +87,9 @@ Hyderabad / Bangalore / Remote
 💼 LinkedIn Profile [ linkedin.com/in/ramya-sri-864657176]
 
 Key Improvements Made:
-Interactive Links: Fixed the LinkedIn and GitHub badge links at the top and bottom so recruiters can click directly to reach your profiles[cite: 1].
+Interactive Links: Fixed the LinkedIn and GitHub badge links at the top and bottom so recruiters can click directly to reach your profiles.
 
-Added Missing Key Skills: Included Redis, AWS Cloud, GitHub Actions (CI/CD), and Node.js explicitly in badges and table sections[cite: 1].
+Added Missing Key Skills: Included Redis, AWS Cloud, GitHub Actions (CI/CD), and Node.js explicitly in badges and table sections.
 
 Professional Engineering Flowchart: Replaced the plain ASCII diagram with structured ASCII art for your ERP systems and SDLC flow.
 

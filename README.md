@@ -41,7 +41,7 @@ I am a **Senior Full-Stack Developer** with **6+ years of hands-on experience** 
 
 | Domain | Technologies & Frameworks |
 | :--- | :--- |
-| **Backend Architecture** | PHP (Core, 5, 7, 8), Laravel, CodeIgniter, Node.js, RESTful APIs, MVC, Microservices |
+| **Backend Architecture** | PHP (Core, 5, 7, 8), Laravel, CodeIgniter, Node.js, RESTful APIs, MVC |
 | **Database & Caching** | MySQL, Query Optimization, Joins, Stored Procedures, Indexing, Redis, In-Memory Caching |
 | **Frontend Development** | React.js, JavaScript (ES6+), jQuery, AJAX, HTML5, CSS3, Bootstrap, Responsive Design |
 | **DevOps & Cloud** | AWS, GitHub Actions (CI/CD), Git, GitHub, Postman, Plesk, cPanel, Linux Administration |
@@ -76,7 +76,7 @@ Production Incident Management: Provided 3rd-level technical support, fast bug r
 
 📊 GitHub Analytics
 🌱 Continuous Improvement & Leadership Focus
-Current Deep Dives: Advanced Cloud Architecture (AWS Lambda / Serverless), Docker Containerization, and Microservice Event-Driven Architectures[cite: 1].
+Current Deep Dives: Advanced Cloud Architecture (AWS Lambda / Serverless)[cite: 1].
 
 Career Vision: Transitioning into Tech Leadership, focusing on technical architecture, team mentorship, and end-to-end project ownership[cite: 1].
 
